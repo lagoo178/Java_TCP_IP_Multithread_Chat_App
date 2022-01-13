@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="0_p_enabled">true</entry>
+<entry key="0_p_reset_results">false</entry>
+<entry key="0_p_timecond_periodunits">1</entry>
+<entry key="0_p_target">project</entry>
+<entry key="0_p_timecond_repeats">false</entry>
+<entry key="0_p_timecond_starttime">1641988183000</entry>
+<entry key="0_p_file">C:\Users\SHERTA~1\AppData\Local\Temp\</entry>
+<entry key="0_p_name">Timed Take Snapshot in TCP_IP_Multithread_Chat_App</entry>
+<entry key="0_p_snapshot">profdata</entry>
+<entry key="0_p_timecond_periodtime">1</entry>
+</properties>
